@@ -31,7 +31,7 @@ app.get('/multi_search', (req, res) => {
           count++;
     
         }
-        if(count==7){
+        if(count==20){
           break
         }
         
